@@ -24,7 +24,7 @@ This project analyzes IPL match and ball-by-ball data from 2008 to 2023 to extra
 
 ---
 
-### 📁 Project Structure
+###  Project Structure
 
 ipl-data-analysis/  
 ├── README.md                   → Project Documentation  
@@ -34,7 +34,7 @@ ipl-data-analysis/
 ├── notebooks/  
 │   └── IPL_Performance_Analysis.ipynb  
 ├── output/  
-│   └── graphs/                 → Saved Visualizations  
+│   └── graphs/                 → Graphs saved locally (not uploaded due to size)  
 ├── report/  
 │   └── IPL_Analysis_Report.pdf → Final Project Report  
 
@@ -46,7 +46,9 @@ ipl-data-analysis/
 - **Match Data:** Team details, results, toss decisions, venue, margin, etc.  
 - **Ball by Ball Data:** Batter, bowler, runs, dismissals, delivery details  
 
-These datasets cover IPL matches from 2008 to 2023 with in-depth ball-by-ball granularity.
+- **Note:**  
+Due to GitHub’s file size limit, the large dataset file `ipl_ball_by_ball_data_2008-2023.csv` has been zipped.  
+Please unzip the file `ipl_ball_by_ball_data_2008-2023.zip` to access the full dataset.
 
 ---
 
