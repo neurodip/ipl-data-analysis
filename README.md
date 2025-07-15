@@ -25,7 +25,7 @@ This project analyzes IPL match and ball-by-ball data from 2008 to 2023 to extra
 ---
 
 ###  Project Structure
-
+```
 ipl-data-analysis/  
 ├── README.md                   → Project Documentation  
 ├── data/  
@@ -37,8 +37,7 @@ ipl-data-analysis/
 │   └── graphs/                 → Graphs saved locally (not uploaded due to size)  
 ├── report/  
 │   └── IPL_Analysis_Report.pdf → Final Project Report  
-
-
+```
 ---
 
 ## Dataset Overview
